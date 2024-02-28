@@ -9,6 +9,10 @@ public class SumOf2Numbers {
        {
         return this.a + this.b;
        }
+       public int sum1()
+       {
+        return this.a + this.b;
+       }
       public static void main(String[] args) {
         SumOfTwoNumbers a = new SumOf2Numbers(5, 6);
           System.out.println(a.sum());

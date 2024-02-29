@@ -7,7 +7,7 @@ package BTH1;
 
 /**
  *
- * @author bluez
+ * @author bluez hihi
  */
 public class GUI extends javax.swing.JFrame {
 

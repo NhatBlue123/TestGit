@@ -132,7 +132,7 @@ public class Form_Sum2Numbers extends javax.swing.JFrame {
             this.jLabelKQMAIN.setText(sum.sum()+"");
             
         } catch (NumberFormatException e) {
-            this.jLabelKQMAIN.setText("Nhập dữ liệu sai");
+            this.jLabelKQMAIN.setText("Nhập dữ liệu sai!");
 
         }
         
